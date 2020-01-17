@@ -1,3 +1,4 @@
 <?php
-php.version();
+phpinfo();
+// echo 'Current PHP version: ' . phpversion();
 ?>
